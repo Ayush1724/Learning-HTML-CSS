@@ -1,0 +1,24 @@
+body{
+    background-color: blueviolet;
+}
+.head1{
+    background-color: bisque;
+    color: red;
+    font-size: 50px;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: black;
+}
+.para{
+    background-color: blue;
+    color: azure;
+    font-size: 20px;
+    font-family: arial;
+    word-spacing: 40px;
+    letter-spacing: 10px;
+    line-height: 80px;
+    font-weight: bold;
+    text-shadow: 8px 2px 5px red;
+
+}
