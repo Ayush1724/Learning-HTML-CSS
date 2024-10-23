@@ -9,6 +9,7 @@ body{
     text-decoration: underline;
     text-decoration-style: wavy;
     text-decoration-color: black;
+    text-align: center;
 }
 .para{
     background-color: blue;

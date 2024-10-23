@@ -1,0 +1,21 @@
+.div{
+    background-color: pink;
+    /* padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px; */
+    padding: 10px;
+    color: yellow;
+    /* border: 10px dotted blue;  this is for all the direction*/
+    border-left: 10px solid blue;
+    border-right:10px solid red ;
+    border-top: 10px solid black;
+    border-bottom: 10px solid green;
+    /* border-radius: 40px;  this is for all the direction*/
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+
+}
