@@ -1,0 +1,16 @@
+body{
+    border: 2px solid black;
+    padding: 20px;
+}
+.what{
+    color: green;
+}
+.face{
+    color: blue;
+}
+.insta{
+    color: pink;
+}
+.snap{
+    color: yellow;
+}
