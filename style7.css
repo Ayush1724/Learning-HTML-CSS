@@ -1,0 +1,15 @@
+.main{
+    background-image: url(img/pexels-azizico-27115139.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.main h1{
+    background-color: rgb(224, 101, 101);
+}
+.main2{
+    background-image: url(img/istockphoto-2151855612-1024x1024.jpg);
+    height: 100vh;
+    background-size: cover;
+}
