@@ -1,0 +1,10 @@
+.cont{
+    display: flex;
+    justify-content: space-evenly;
+}
+.div1,.div2{
+    background-color: aqua;
+    height: 300px;
+    width: 200px;
+    border: 2px solid red;
+}
