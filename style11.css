@@ -1,0 +1,18 @@
+.nav1{
+    display: flex;
+    background-color: blueviolet;
+    justify-content: space-evenly;
+
+}
+.ul1{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    justify-content: space-evenly;
+}
+.ul2{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    justify-content: space-evenly;
+}
