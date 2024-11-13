@@ -1,0 +1,25 @@
+.contaner{
+    background-color: blue;
+    height: 400px;
+    margin-top: 150px;
+}
+.ch{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    background-color: red;
+    top: 20px;
+    left: 80px;
+
+}
+
+/* img{
+    position: fixed;
+    top: 50px;
+    left: 50px;
+} */
+ img{
+    position: sticky;
+    top: 90px;
+    right: 100px;
+ }
