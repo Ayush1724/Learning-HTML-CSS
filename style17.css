@@ -1,0 +1,38 @@
+.a1{
+    text-decoration: underline;
+    font-family: "Bokor", system-ui;
+    text-decoration-style: wavy;
+    /* word-spacing: 20px;
+    letter-spacing: 20px; */
+    background-color: aqua;
+    color:green;
+    position: sticky;
+
+}
+.user{
+    color: orange;
+}
+.f1{
+    font-family: "Sour Gummy", sans-serif;
+    color: blueviolet;
+    background-color: beige;
+}
+.m1{
+    font-family: "Sour Gummy", sans-serif;
+}
+.p1{
+    text-decoration: underline;
+    font-family: "Bokor", system-ui;
+    padding: 20px;
+    border: 2px solid;
+}
+.p2{
+    font-family: "Sour Gummy", sans-serif;
+    font-weight: 20px ;
+    color: orangered;
+    border: 2px solid blue;
+    border-radius: 20px;
+    box-shadow: 4px 5px 12px 6px red;
+    margin: 20px;
+    padding: 20px;
+}
