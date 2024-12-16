@@ -1,0 +1,38 @@
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ul1{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+
+}
+.ul2{
+    list-style: none;
+    display: flex;
+    gap: 10px; 
+}
+#check{
+    display: none;
+}
+.nav1 label{
+    display: none;
+}
+#check:checked~.nav1 .ul1{
+    display: block;
+}
+@media screen and (max-width: 600px) {
+    .nav1 label{
+        display: block;
+    }
+    .ul1{
+        display: none;
+        position: absolute;
+        background-color: orangered;
+        top: 70px;
+        width: 100%;
+    }
+    
+}
