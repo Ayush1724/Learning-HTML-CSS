@@ -55,7 +55,7 @@ gap: 20px;
 }
 .c1{
     font-size: 35px;
-    font-weight: bolder;
+    font-weight: 100000;
 }
 .c2{
     font-size: 20px;
@@ -71,4 +71,48 @@ gap: 20px;
 }
 .sec4{
     margin-left: 20px;
+    font-size: 20px;
+}
+.girls{
+    padding-left: 35px;
+}
+.sec7 h1{
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.sec8{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.shoe1{
+    padding-left: 40px;
+}
+.sec9 h1{
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.sec9 img{
+    padding-left: 30px;
+}
+.d1{
+    font-weight: 700;
+}
+.d2{
+    font-size: 50px;
+    font-weight: 1000000;
+}
+.d3{
+    font-size: 20px;
+    font-weight: 600;
+}
+.d4{
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+
 }
