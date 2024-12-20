@@ -25,6 +25,9 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    position: sticky;
+    top: 0px;
+    background-color: white;
 }
 .ul1{
 list-style: none;
@@ -169,4 +172,68 @@ gap: 20px;
     align-items: center;
     gap: 15px;
     color: grey;
+}
+.sec5{
+    display: flex;
+    /* justify-content: space-around; */
+    gap: 5px;
+}
+#check{
+    display: none;
+}
+.nav2 label{
+    display: none;
+}
+#check:checked~.nav2 .ul1{
+    display: block;
+}
+@media screen and (max-width:600px) 
+{
+    .nav2 label{
+        display: block;
+    }
+    .ul1{
+        display: none;
+        position: absolute;
+        top: 70px;
+        width: 100%;
+        background-color: grey;  
+    }
+    .sec1{
+        width: 100%;
+    }
+    .b1{
+        width: 90%;
+    }
+    .sec5{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .sec8{
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    }
+    .sec12{
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    }
+    .sec15{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center
+    }
+    .sec16{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+    }
+    .sec17{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+    }
+    
 }
