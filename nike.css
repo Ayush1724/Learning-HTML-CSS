@@ -235,5 +235,8 @@ gap: 20px;
     align-items: center;
     justify-content: center
     }
+    .sec9 img{
+        width: 90%;
+    }
     
 }
